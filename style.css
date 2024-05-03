@@ -335,6 +335,12 @@ li{
     .fixed__footer p{
         padding: 10px 20px;
     }
+
+
+    
+    .content__hover .content__btn{
+        padding: 0 10px 5px 10px;
+    }
 }
 
 @media (max-width: 550px){
