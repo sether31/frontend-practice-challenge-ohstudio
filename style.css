@@ -336,9 +336,6 @@ li{
         padding: 10px 20px;
     }
 
-    .content__btn a{
-        font-size: 1rem;
-    }
 }
 
 @media (max-width: 550px){
